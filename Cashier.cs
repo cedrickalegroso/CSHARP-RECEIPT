@@ -41,6 +41,22 @@ namespace c08_Alegroso_Receipt
         {
             return "Paid for to " + GetCashierName() + " of Counter " + GetCashierNo();
         }
+        
+        
+        /* other way 
+        
+          public void ToString(Orders O1, Orders O2, Orders O3)
+        {
+            Console.WriteLine( "Paid for to " + GetCashierName() + " of Counter " + GetCashierNo() );
+            O1.ToString();
+            O2.ToString();
+            O3.ToString();
+            Console.Write("\nTotal: ");
+            Console.Write(O1.GetOrderTotal() + O2.GetOrderTotal() + O3.GetOrderTotal());
+        } 
+        
+        */
+
 
     }
 }
