@@ -84,6 +84,17 @@ namespace c08_Alegroso_Receipt
 
 
             Console.WriteLine();
+            
+            
+            /* Other Way
+            
+             Console.Write("==================================");
+            Console.WriteLine();
+            C1.ToString(O1, O2, O3);
+            Console.WriteLine(); 
+            Console.Write("==================================");
+            
+            */
 
             // Output Ends //
 
