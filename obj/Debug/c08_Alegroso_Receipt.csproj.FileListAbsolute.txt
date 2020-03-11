@@ -1,0 +1,6 @@
+c:\users\cedrick\documents\visual studio 2012\Projects\c08_Alegroso_Receipt\c08_Alegroso_Receipt\bin\Debug\c08_Alegroso_Receipt.exe.config
+c:\users\cedrick\documents\visual studio 2012\Projects\c08_Alegroso_Receipt\c08_Alegroso_Receipt\obj\Debug\c08_Alegroso_Receipt.csprojResolveAssemblyReference.cache
+c:\users\cedrick\documents\visual studio 2012\Projects\c08_Alegroso_Receipt\c08_Alegroso_Receipt\bin\Debug\c08_Alegroso_Receipt.exe
+c:\users\cedrick\documents\visual studio 2012\Projects\c08_Alegroso_Receipt\c08_Alegroso_Receipt\bin\Debug\c08_Alegroso_Receipt.pdb
+c:\users\cedrick\documents\visual studio 2012\Projects\c08_Alegroso_Receipt\c08_Alegroso_Receipt\obj\Debug\c08_Alegroso_Receipt.exe
+c:\users\cedrick\documents\visual studio 2012\Projects\c08_Alegroso_Receipt\c08_Alegroso_Receipt\obj\Debug\c08_Alegroso_Receipt.pdb
